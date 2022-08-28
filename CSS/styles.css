@@ -1,0 +1,260 @@
+body{
+    font-family: "Montserrat";
+}
+@media (max-width:992px){
+    body{
+        text-align: center;
+    }
+}
+/* Section Title */
+
+#Title{
+    background-color:#6E85B7;
+    padding: 3% 7%;
+    color : white;
+    overflow: hidden;
+}
+
+.logo{
+    width: 200%;
+    margin-left:-50%;
+    margin-top: -20%;
+}
+
+#Title h1{
+    padding-top: 15%;
+    padding-bottom: 7%;
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+#Title p{
+    font-size: 1.75rem;
+    line-height: 2;
+}
+
+    /* navbar selection */
+
+.navbar{
+    background-color: #6983b9;
+}
+
+.navbar-brand:hover{
+    color: gray; 
+}
+
+.navbar-brand{
+    color : white;
+    font-size: 1.5rem;
+    font-weight: 650;
+}
+
+.nav-link{
+    color:white;
+    font-weight: 400;
+}
+
+.nav-item{
+    margin: 0 1rem ; 
+}
+
+/* Qualities Section */
+
+#Qualities{
+    margin-top:-7%;
+    background-color: white;
+    color:#1C3879 ;
+    text-align: center;
+    padding: 3% 7%;
+}
+
+.quality{
+    padding: 5% 5% 2%;
+}
+
+#Qualities h3{
+    margin: 4% 0 3%;
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+#Qualities .icon{
+    padding: 7%;
+}
+
+#Qualities h6{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+#Qualities p{
+    font-size: 1.5rem;
+    color: gray;
+}
+
+/* Carousel Selection */
+
+#Carousel{
+    color: white;
+
+    background-color: #B2C8DF;
+    text-align: center;
+}
+
+.Carousel-image{
+    width:10%;
+    border-radius:100%;
+    margin-right: 2%;
+}
+
+#Carousel h3{
+    font-size: 2.5rem;
+    font-weight: bold;
+    line-height: 1.5;
+    padding-bottom: 4%;
+}
+
+#Carousel span {
+    color: white;
+    font-weight: 450;
+    font-size: 1.2rem;
+}
+
+.carousel-item{
+    padding: 5% 13% 5%;
+}
+
+/* Team Section */
+
+#Team{
+    text-align: center;
+    color: #1C3879;
+    padding: 3% 7%;
+}
+
+#Team img{
+    width : 15rem;
+    border-radius: 100%;
+    padding: 5%;
+}
+
+#Team h3{
+    margin: 4% 0 3%;
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+#Team h6{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+#Team p{
+    font-size: 1.5rem;
+    color: gray;
+}
+
+/* Merch Section */
+
+#Merch{
+    color: white;
+    background-color: #6E85B7;
+    text-align: center;
+    padding: 3% 7% 5%;
+}
+
+#Merch h2{
+    font-weight: 800;
+    font-size: 3rem;
+    margin-bottom: 5%;
+}
+
+#Merch img{
+    width: 35rem;
+}
+
+#Merch h4{
+    font-weight: 900;
+    font-size: 4rem;
+    text-align: left;
+    margin-bottom: 4%;
+}
+
+#Merch p{
+    font-size: 1.75rem;
+    line-height: 2;
+    text-align: left;
+    margin-bottom: 5%;
+}
+
+#Merch button{
+    margin-bottom: 5%;
+}
+
+/* Youtube Section */
+
+#Youtube{
+    color: #1C3879;
+    padding: 3% 7% 5%;
+    text-align: center;
+}
+
+#Youtube h2 {
+    margin-top: 3%;
+    font-weight: 800;
+    font-size: 3rem;
+    margin-bottom: 5%;
+}
+
+iframe{
+    border-radius: 5%;
+}
+
+#Youtube h3{
+    font-weight: 900;
+    font-size: 5rem;
+    text-align: left;
+    margin-bottom: 5%;
+}
+
+#Youtube h6{
+    text-align: left;
+    font-size: 1.75rem;
+    line-height: 2;
+}
+
+/* Contact Section */
+
+#Contact{
+    padding: 3% 7% 5%;
+    background-color:#B2C8DF;
+    text-align: center;
+    color: white;
+}
+
+#Contact h3 {
+    margin-top: 3%;
+    font-weight: 800;
+    font-size: 5rem;
+    margin-bottom: 5%;
+}
+
+#Contact i{
+    padding : 2% ;
+}
+
+#Contact button{
+    margin-top: 5%;
+}
+
+/* Footer Section */
+
+#Footer{
+    text-align: center;
+    padding : 3% 7% ; 
+    color: gray ;
+}
+
+#Footer p {
+    font-size: 1.25rem;
+}
